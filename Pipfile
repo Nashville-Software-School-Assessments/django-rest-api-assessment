@@ -14,7 +14,7 @@ pytest-django = "*"
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "*"
 
 [scripts]
 test = "python3 manage.py test"
