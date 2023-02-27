@@ -59,8 +59,10 @@ When you are done building this project, let one of your coaches know and be pre
 ### 👩🏾‍🎤 Artists
 
 1. Create a new artist
-2. Get a single artist. The response should include the total number of songs in the database for the artist.
+2. Get a single artist.
 3. List all artists.
+
+The artist response should include the total number of songs in the database for the artist. It should also include a serialized list of all related songs _(see example below)_.
 
 ## Data Design
 
