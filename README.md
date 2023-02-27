@@ -121,6 +121,7 @@ Set up your serializers to produce the following JSON responses for getting song
             "title": "Song Title",
             "album": "Album Title"
         }
-    ]
+    ],
+    "song_count": 1
 }
 ```
